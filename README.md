@@ -1,6 +1,9 @@
 # Statistical Learning I
 ## **PROYECTO DE CURSO – FASE I**
-### **Catedrático:** Ing. Pren Biba | Auxiliar: Inga. Alejandra Ubico Fecha: Mayo 2024
+
+#### Fecha: Mayo 2024
+
+### **Catedrático:** Ing. Pren Biba | *Auxiliar: Inga. Alejandra Ubico*
 
 ### **Jose Guillermo Gordillo Lopez -  23003971** | Marvin Fernando Carrillo Robles - 14003303
 
