@@ -5,7 +5,7 @@
 
 ### **Catedrático:** Ing. Pren Biba | *Auxiliar: Inga. Alejandra Ubico*
 
-### **Jose Guillermo Gordillo Lopez -  23003971** | Marvin Fernando Carrillo Robles - 14003303
+### **José Guillermo Gordillo López -  23003971** | Marvin Fernando Carrillo Robles - 14003303
 
 
 Se ha selecconado un Dataset, el cual tiene como objetivo medir la calidad del **Agua**; que se ha recolectado en diversos puntos del los **Estados Unidos de Norte América**. El presente proyecto tiene como objetivo, identificar variables que permitan identificar patrones de la calidad del **Agua** tomando como referencia las Ubicaciones, Áreas, Calidad, Profundidad, entre otros. 
