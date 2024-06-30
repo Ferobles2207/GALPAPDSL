@@ -25,6 +25,8 @@ Asimismo, dada la diversidad de datos, se ha fijado como objetivo; interactuar c
 ## **PROYECTO DE CURSO – FASE II**
 ### Fase Final: Modelos de Aprendizaje Automático
 
+#### Fecha: Junio 2024
+
 El aprendizaje automático (**machine learning**) se ha convertido en una herramienta fundamental para resolver una amplia gama de problemas en diversas industrias. Estos algoritmos de *aprendizaje automático* permiten aprender de los datos y hacer predicciones o tomar decisiones sin estar explícitamente programadas para ello.
 Algunos de los algoritmos de aprendizaje automático más populares y ampliamente utilizados incluyen: **Naive Bayes, LDA, Regresión Logística, SVM, Árboles de Decisión, Random Forest, QDA, AdaBoost, Gradient Boosting, XGBoost y LGBM**. Cada uno de estos modelos tiene sus propias fortalezas, debilidades y casos de uso específicos:
 
